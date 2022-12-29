@@ -4,10 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer - Web Designer
 ----------------------------
 
-* 🌍  I'm based in Leuven, Belgium
-* 🖥️  See my portfolio at [bigwebdev.be](http://bigwebdev.be)
-* ✉️  You can contact me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
-* 🧠  I'm learning Java
+* 🌍  Based in Leuven, Belgium
+* 🤓  Currently learning Java
+* 🖥️  Check out my portfolio on [bigwebdev.be](http://bigwebdev.be)
+* 📧  You can reach me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
+* 👉  Find me on [LinkedIn](https://www.linkedin.com/in/jonathan-moermans/)
+
 
 ### Skills
 
