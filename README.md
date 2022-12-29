@@ -8,10 +8,10 @@ Web Developer - Web Designer
 * 🖥️  See my portfolio at [bigwebdev.be](http://bigwebdev.be)
 * ✉️  You can contact me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
 * 🧠  I'm learning Java
-
+</div>
   <p align="right"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MoermansJ?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a></p>
-  </div>
+
 ### Skills
 
 <p align="left">
