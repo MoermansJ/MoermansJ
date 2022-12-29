@@ -1,4 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan
+  <p align="right"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MoermansJ?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a></p>
 ================================================================================================================================
 
 Web Developer - Web Designer
@@ -40,6 +42,5 @@ Web Developer - Web Designer
 
 
 <p align="left"> <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-  <p align="right"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MoermansJ?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a></p>
+
 
