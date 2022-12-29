@@ -35,9 +35,5 @@ Web Developer - Web Designer
 
 <a href="http://www.github.com/MoermansJ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoermansJ&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Socials
-
-
-<p align="left"> <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
