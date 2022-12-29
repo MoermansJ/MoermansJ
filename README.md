@@ -35,8 +35,6 @@ Web Developer - Web Designer
 
 <p align="left"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<!-- ### Badges -->
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MoermansJ"><img src="https://github-readme-stats.vercel.app/api?username=MoermansJ&show_icons=true&hide=prs,contribs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="MoermansJ's GitHub stats" /></a>
+<a href="http://www.github.com/MoermansJ"><img src="https://github-readme-stats.vercel.app/api?username=MoermansJ&show_icons=true&hide=prs,contribs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="MoermansJ's GitHub stats" /></a>
