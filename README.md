@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer - Web Designer
 ----------------------------
 
-* 🌍  I'm based in Leuven, Belgium
-* 🖥️  See my portfolio at [bigwebdev.be](http://bigwebdev.be)
-* ✉️  You can contact me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
-* 🧠  I'm learning Java
+* 🌍  I'm based in Leuven, Belgium
+* 🖥️  See my portfolio at [bigwebdev.be](http://bigwebdev.be)
+* ✉️  You can contact me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
+* 🧠  I'm learning Java
 
+<a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MoermansJ?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a>
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,14 +31,11 @@ Web Developer - Web Designer
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-<!-- ### Badges -->
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MoermansJ"><img src="https://github-readme-stats.vercel.app/api?username=MoermansJ&show_icons=true&hide=prs,contribs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="MoermansJ's GitHub stats" /></a>
-
-
-
-### Find me on
-
-<p align="left"><a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="http://www.github.com/MoermansJ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoermansJ&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
