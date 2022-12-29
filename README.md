@@ -4,14 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer - Web Designer
 ----------------------------
 
-* 🌍  I'm based in Leuven, Belgium
-* 🖥️  See my portfolio at [bigwebdev.be](http://bigwebdev.be)
-* ✉️  You can contact me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
-* 🧠  I'm learning Java
-
-### Skills
-
-
+*   🌍  I'm based in Leuven, Belgium
+*   🖥️  See my portfolio at [bigwebdev.be](http://bigwebdev.be)
+*   ✉️  You can contact me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
+*   🧠  I'm learning Java### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,12 +25,13 @@ Web Developer - Web Designer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MoermansJ"><img src="https://github-readme-stats.vercel.app/api?username=MoermansJ&show_icons=true&hide=prs,contribs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="MoermansJ's GitHub stats" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/MoermansJ"><img src="https://github-readme-stats.vercel.app/api?username=MoermansJ&show_icons=true&hide=prs,contribs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="MoermansJ's GitHub stats" /></a>
