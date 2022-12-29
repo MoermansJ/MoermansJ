@@ -4,11 +4,11 @@
 Web Developer - Web Designer
 ----------------------------
 
-🌍  Based in Leuven, Belgium
-🤓  Currently learning Java
-🖥️  Check out my portfolio on [bigwebdev.be](http://bigwebdev.be)
-📧  You can reach me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
-👉  Find me on [LinkedIn](https://www.linkedin.com/in/jonathan-moermans/)
+<div>🌍  Based in Leuven, Belgium </div>
+<div>🤓  Currently learning Java </div>
+<div>🖥️  Check out my portfolio on [bigwebdev.be](http://bigwebdev.be) </div>
+<div>📧  You can reach me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be) </div>
+<div>👉  Find me on [LinkedIn](https://www.linkedin.com/in/jonathan-moermans/) </div>
 
 
 ### Skills
