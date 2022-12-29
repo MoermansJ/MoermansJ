@@ -9,8 +9,7 @@ Web Developer - Web Designer
 * ✉️  You can contact me at [Jonathan@bigwebdev.be](mailto:Jonathan@bigwebdev.be)
 * 🧠  I'm learning Java
 
-<a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MoermansJ?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a>
+
 ### Skills
 
 <p align="left">
@@ -31,11 +30,16 @@ src="https://img.shields.io/github/followers/MoermansJ?logo=github&style=for-the
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MoermansJ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoermansJ&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Socials
+
+
+<p align="left"> <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  <p align="right"> <a href="https://www.github.com/MoermansJ" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MoermansJ?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a></p>
+
