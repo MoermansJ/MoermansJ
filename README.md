@@ -3,8 +3,6 @@
 
 Details
 ----------------------------
-[![LinkedIn][linkedin-shield]]["https://www.linkedin.com/in/jonathan-moermans/"]
-
 <div>❓  Web Developer/Web Designer</div>
 <div>🌍  Based in Leuven, Belgium </div>
 <div>🤓  Currently learning Java </div>
