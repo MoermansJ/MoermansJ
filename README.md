@@ -3,7 +3,7 @@
 
 
 ### Details
-=============================
+----------------------------
 
 <div>❓  Web Developer/Web Designer</div>
 <div>🌍  Based in Leuven, Belgium </div>
