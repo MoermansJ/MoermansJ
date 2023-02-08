@@ -1,9 +1,10 @@
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub
-=============================
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ### Welcome to my GitHub
+----------------------------
 
 
 ### Details
-----------------------------
+=============================
+
 <div>❓  Web Developer/Web Designer</div>
 <div>🌍  Based in Leuven, Belgium </div>
 <div>🤓  Currently learning Java </div>
