@@ -34,9 +34,3 @@
 
 
 
-### My GitHub Stats
-----------------------------
-<a href="http://www.github.com/MoermansJ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoermansJ&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
