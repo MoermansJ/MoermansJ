@@ -4,7 +4,8 @@
 ### Details
 ----------------------------
 
-<div>❓   Junior Java/JavaScript Developer</div>
+<div>❓  Junior Java & JavaScript Developer</div>
+<div>👑  Aspiring CSS king</div>
 <div>🌍  Based in Leuven, Belgium </div>
 <div>🤓  Currently learning Java </div>
 <div>🖥️  Check out <a href="http://bigwebdev.be" target="_blank" rel="noreferrer">my portfolio</a> </div>
