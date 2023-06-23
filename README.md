@@ -9,7 +9,7 @@
 <div>🌍  Based in Leuven, Belgium </div>
 <div>🤓  Currently learning Java </div>
 <div>🖥️  Check out <a href="http://bigwebdev.be" target="_blank" rel="noreferrer">my portfolio</a> </div>
-<div>📧  You can reach me at <a href="mailto:Jonathan@bigwebdev.be" target="_blank" rel="noreferrer">Jonathan@bigwebdev.be</a> </div>
+<div>📧  You can reach me at <a href="mailto:JonathanMoermans@GMX.com" target="_blank" rel="noreferrer">JonathanMoermans@GMX.com</a> </div>
 <div>👉  Find me on <a href="https://www.linkedin.com/in/jonathan-moermans/" target="_blank" rel="noreferrer">LinkedIn</a> </div>
 
 
